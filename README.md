@@ -1,7 +1,8 @@
 ---
 
 ⚠️ **Note:**  
-The code is **not in the main branch**. If you want to check out the code:
+This repository is for learning Python. The code files are organized in separate folders for each lesson or project.
+:
 
 1. **Clone this repository**
 
