@@ -9,10 +9,16 @@ The code is **not in the main branch**. If you want to check out the code:
    git clone https://github.com/your-username/your-repo.git
    ```
 
-2. **Switch to a branch with code**
+2. **Switch the folder**
 
 ```bash
-  git switch branch-name
+  cd foldername
 ```
 
-3. Explore the code and have fun! 😎
+3. **Run the code**
+
+```bash
+  python3 filename.py
+```
+
+4. Explore the code and have fun! 😎
