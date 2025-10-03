@@ -7,7 +7,7 @@ This repository is for learning Python. The code files are organized in separate
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:Hruchman-Ruslan/python.git
    ```
 
 2. **Switch the folder**
